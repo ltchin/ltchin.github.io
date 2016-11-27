@@ -4,3 +4,16 @@
 <script src="/js/library.js"></script>
 <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
 <script src="/js/jquery.toc.min.js"></script>
+<script src="/js/ekko-lightbox.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function ($) {
+		$(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+	        event.preventDefault();
+	        return $(this).ekkoLightbox({
+	            always_show_close: true,
+	            gallery_parent_selector: '.gallery',
+	        });
+	    });
+	});
+</script>
