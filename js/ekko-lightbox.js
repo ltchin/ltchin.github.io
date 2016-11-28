@@ -371,7 +371,7 @@ License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
       }
       border_padding = this.border.top + this.border.bottom + this.padding.top + this.padding.bottom;
       margins = parseFloat(this.modal_dialog.css('margin-top')) + parseFloat(this.modal_dialog.css('margin-bottom'));
-      max_height = $(window).height() - border_padding - margins - header_height - footer_height;
+      max_height = window.innerHeight - border_padding - margins - header_height - footer_height;
       factor = Math.min(max_height / height, 1);
       this.modal_dialog.css('height', 'auto').css('max-height', max_height);
       return this.resize(factor * width);
