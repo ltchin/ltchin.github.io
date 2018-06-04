@@ -8,7 +8,16 @@ experience: passive
 description: Derp Skates - Jan. 2015
 ---
 <div class="text-center">
-	<h2>{{page.description}}</h2>
+	<h1>{{page.description}}</h1>
+
+	<img class="img-fluid" src="/img/skates005.jpg" height="300">
+	<br>
+	<br>
+
+
+	Learned how to do more processes worked, like laser cut and waterjet
+	Looking back on it, mostly naivete and understanding how to really approach a project
+
 
 	Acrylic
 	material laser cut
@@ -18,5 +27,14 @@ description: Derp Skates - Jan. 2015
 	prototyping ideas
 	Just finished class on product design 2.00 (ref)
 	Less about mechanical design (which would come later in 2.72)
+
+	<br>
+	<button data-target="#image-gallery" class="btn btn-default" data-toggle="collapse" aria-pressed="false">Toggle Image Gallery</button>
+
+	<div id="image-gallery" class = "gallery container collapse">
+		<br>
+		{% include gallery-row-4.html gallery="skates" img1="skates001.jpg" title1 = "Render of 2012 Robot" caption1 = "" img2 = "skates002.jpg" title2 = "2010, 2011 and 2009 Robots" caption2 = "" img3 = "skates003.jpg" title3 = "Programming the 2012 Robot" caption3 = ""	img4 = "skates004.jpg" title4 = "Internationals 2012 Pits" caption4 = "" %}
+		{% include gallery-row-4.html gallery="skates" img1="skates005.jpg" title1 = "Internationals 2012 Pits" caption1 = "" img2 = "skates006.jpg" title2 = "Internationals 2012 Pits" caption2 = "" img3 = "skates007.jpg" title3 = "Internationals 2012 Pits" caption3 = ""	img4 = "skates008.jpg" title4 = "Internationals 2012 Pits" caption4 = "" %}
+	</div>
 	
 </div>
