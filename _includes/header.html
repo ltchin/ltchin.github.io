@@ -1,8 +1,8 @@
 <div class="header">
 	<ul class="nav nav-pills pull-right">
 		<li><a href="/files/LillyChin-CV.pdf" title="CV">CV</a></li>
-        <li><a href="/research">Research</a></li>
-		<li class="dropdown"><a href="/projects" class="dropdown-toggle" data-toggle="dropdown" title="Projects">Projects <span class="caret"></span></a>
+        <li class="{{ page.research }}"><a href="/research">Research</a></li>
+		<li class="dropdown {{ page.projects }}"><a href="/projects" class="dropdown-toggle" data-toggle="dropdown" title="Projects">Projects <span class="caret"></span></a>
 			<ul class="dropdown-menu">
                 <li><a href="/projects/art">Art</a></li>
                 <li><a href="/projects/hardware">Hardware</a></li>
@@ -10,7 +10,7 @@
                 <li><a href="/projects/writing">Writing</a></li>
 	        </ul>
         </li>
-        <li><a href="/press">Press</a></li>
+        <li class="{{ page.press }}"><a href="/press">Press</a></li>
 	</ul>
 	<div class="text-muted"><a href="/">Lilly Chin</a></div> <!-- CONVERT INTO SOMETHING DIFFERENT FOR RIGHT SIZE -->
 </div> <!-- /header -->
