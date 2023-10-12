@@ -3,7 +3,7 @@ title: Crafting
 js: true
 gallery: true
 button: true
-toc: true
+toc: false
 preamble: The line between "crafting" and "making" is really fuzzy (and highly gendered). I tried to split the line as "craft" being the pursuit of aesthetics, while "make" being the pursuit of functionality. In other words, the items in this section were created more for artistic expression. <p></p> These days, my main medium has been cross stitch, since many of the other hobbies were only possible with MIT's resources. I hope to return to some of those more expensive hobbies someday!
 ---
 
