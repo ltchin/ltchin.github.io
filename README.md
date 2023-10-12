@@ -1,5 +1,3 @@
-README.md
-
 Building off of 
 * [this tutorial](https://hugo-mini-course.netlify.app/sections/)
 * [this theme](https://xmin.yihui.org/about/)
