@@ -1,0 +1,15 @@
+{
+  "thumbnailHeight": "150",
+  "thumbnailWidth": "150",
+  "thumbnailLabel": { "title": "%filenameNoExt", "display": false, "displayDescription": false },
+  "imageTransition": "slideAppear",
+  "viewerHideToolsDelay": 9999,
+	"viewerToolbar":   {
+	    "display": true,
+	    "position": "top",
+	    "fullWidth": true,
+	    "autoMinimize": 0,
+	    "standard": "label, fullscreenButton, downloadButton, infoButton",
+	    "standard": "label, fullscreenButton, downloadButton, infoButton"
+	  }
+}
