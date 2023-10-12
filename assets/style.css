@@ -125,20 +125,17 @@ hr {
 /*******************************************************************/
 /* HOMEPAGE GRID DESIGN                                            */
 /*******************************************************************/
-/* https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/ */
-.home-grid-wrapper {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 20px;
+/* Thanks Faye! */
+.home-flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  justify-content: center;
 }
 
-@media {
-    .home-img {
-        grid-column: span 4;
-    }
-    .home-txt {
-        grid-column: span 8;
-    }
+.home-txt {
+  flex-basis: 400px; /* if .home-txt would need to be narrower than this in a side-by-side layout, it'll stack them instead */
+  flex-grow: 1;
 }
 
 /*******************************************************************/
