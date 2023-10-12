@@ -8,4 +8,8 @@
 		{{$buttonJS := resources.Get "toggleButton.js" | minify | fingerprint}}
     	<script src="{{$buttonJS.Permalink}}"></script>
 	{{ end }}
+	{{ if .Params.rot13 }}
+		{{$rot13JS := resources.Get "rot13.js" | minify | fingerprint}}
+    	<script src="{{$rot13JS.Permalink}}"></script>
+	{{ end }}
 {{ end }}

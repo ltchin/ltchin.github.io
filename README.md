@@ -18,6 +18,7 @@ Helpful resources for dev:
 Notes
 * `<head>` is for indexing only, not for visible changes
 * edit config.yaml for deciding which theme to use
-* Run "hugo server --minify" to prevent excessive amounts of whitespace in the generated html
+* Run "hugo --gc --minify" to prevent excessive amounts of whitespace in the generated html
 * Use ctrl+shift+R to force cache to refresh for CSS
 * There is a bug that doesn't let you do shortcodes and markdown within inner, so unfortunately this means no Markdown within my toggle galleries
+* For some reason, the default github pages action does not work so we have to do the docs compilation approach instead

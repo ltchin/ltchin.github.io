@@ -154,8 +154,6 @@ hr {
   color: #999999; 
 }
 
-.obfuscate { unicode-bidi: bidi-override; direction: rtl; } /* Email code */
-
 a:link {
     color: #428bca;
     text-decoration: none;
