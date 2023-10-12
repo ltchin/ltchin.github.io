@@ -3,7 +3,7 @@ title: Making
 js: true
 gallery: true
 button: true
-toc: true
+toc: false
 preamble: The line between "crafting" and "making" is really fuzzy (and highly gendered). I tried to split the line as "craft" being the pursuit of aesthetics, while "make" being the pursuit of functionality. In other words, the items in this section were created more to achieve a functional goal or task. <p></p> Most of these stem from class projects, as I've found less enjoyment of making things when my job is also engineering. Perhaps as I shift to a more managerial role, my tinkering tendencies will spring up again!
 ---
 
