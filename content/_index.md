@@ -27,4 +27,4 @@ This website also provides an archive of my personal projects, ranging from [eng
 <!-- For contact info -->
 <script>
 	unobfuscate("obfuscate", "\<n uers='znvygb\:ygpuva\@hgrknf.rqh'\>ygpuva\@hgrknf.rqh\<\/n\>");
-</script>s
+</script>
