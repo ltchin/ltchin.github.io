@@ -1,7 +1,7 @@
 ---
 title: Press
 preamble: Below is a selected collection of press links related to me, my research, and my outside activities.
-toc: false
+toc: true
 ---
 
 ## Robotics Research
