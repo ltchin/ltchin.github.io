@@ -1,0 +1,1 @@
+function toggleButton(b){var a=document.getElementById(b),c=a.getElementsByClassName("nGY2");a.style.display==="block"?a.style.display="none":(a.style.display="block",resizeGalleries(c))}function resizeGalleries(b){for(var a=0;a<b.length;a++)$(b[a]).nanogallery2('resize')}
