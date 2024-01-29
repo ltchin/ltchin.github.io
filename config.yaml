@@ -16,21 +16,36 @@ menu:
     - name: Research
       url: "research/"
       weight: 2
-    - name: Projects
-      url: "projects/"
+    - name: MERGe Lab
+      url: "lab-website/"
+      parent: "Research"
+      weight: 2
+    - name: Philosophy
+      url: "philosophy/"
+      parent: "Research"
       weight: 3
+    - name: Inspiration
+      url: "who-taught-me/"
+      parent: "Research"
+      weight: 4
+    # - name: Teaching
+    #   url: "teaching/"
+    #   weight: 3
+    - name: Side Projects
+      url: "projects/"
+      weight: 4
     - name: Crafting
       url: "crafting/"
-      parent: "Projects"
-      weight: 4
+      parent: "Side Projects"
+      weight: 5
     - name: Making
       url: "making/"
-      parent: "Projects"
-      weight: 4
+      parent: "Side Projects"
+      weight: 5
     - name: Writing
       url: "writing/"
-      parent: "Projects"
-      weight: 4
+      parent: "Side Projects"
+      weight: 5
     - name: Press
       url: "press/"
       weight: 6
