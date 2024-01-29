@@ -17,15 +17,15 @@ menu:
       url: "research/"
       weight: 2
     - name: MERGe Lab
-      url: "lab-website/"
+      url: "https://merge-lab.github.io/publications/"
       parent: "Research"
       weight: 2
     - name: Philosophy
-      url: "philosophy/"
+      url: "research/philosophy/"
       parent: "Research"
       weight: 3
     - name: Inspiration
-      url: "who-taught-me/"
+      url: "research/who-taught-me/"
       parent: "Research"
       weight: 4
     # - name: Teaching
