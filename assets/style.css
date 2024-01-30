@@ -17,7 +17,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding-top: 20px;
-  line-height: 1.65;
+  line-height: 1.625;
 }
 
 h1, h2 , h3{
@@ -29,11 +29,11 @@ p {
 }
 
 ul, ol {
-  margin: 4px 0;
+  margin: 5px 0;
 }
 
 li {
-  padding-bottom: 5px;
+  padding-bottom: 3px;
 }
 
 figure,
@@ -56,7 +56,7 @@ iframe {
 }
 
 #TableOfContents ul {
-  margin-top: 1px;
+  margin: 1px;
 }
 
 /*******************************************************************/
@@ -69,6 +69,7 @@ iframe {
 }
 .menu li { 
   display: inline-block; 
+  padding-bottom: 0px;
 }
 .article-meta, .menu a {
   text-decoration: none;
@@ -142,6 +143,10 @@ hr {
   padding: 4px 15px;
   background-color: #428bca;
   color: #fff;
+}
+
+.dropdown ul {
+  margin: 0px;
 }
 
 /*******************************************************************/
