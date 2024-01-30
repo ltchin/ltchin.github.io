@@ -3,8 +3,7 @@ title: Research
 ---
 Since this is my personal website, it focuses on my *research roots*. I discuss the [research philosophy](/research/philosophy) that animates me and [highlight the people](/research/inspiration) who taught me how to think those thoughts.
 
-If you'd like to know more about my specific research, please look at [my lab website](https://merge-lab.github.io/publications/), which will give the much more granular leaf-focused view of my research tree.
-
+[My lab website](https://merge-lab.github.io/) demonstrates how this philosophy gets translated into practice, highlighting the [branches](https://merge-lab.github.io/research/) and the [leaves](https://merge-lab.github.io/publications/) of the tree.
 
 ## The Research Tree Metaphor
 

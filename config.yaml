@@ -17,7 +17,7 @@ menu:
       url: "research/"
       weight: 2
     - name: MERGe Lab
-      url: "https://merge-lab.github.io/publications/"
+      url: "https://merge-lab.github.io/research/"
       parent: "Research"
       weight: 2
     - name: Philosophy
