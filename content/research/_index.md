@@ -1,22 +1,17 @@
 ---
 title: Research
-js: true
-gallery: true
 ---
+The way I think about research is through the metaphor of the *research tree*. This was introduced to me by my PhD advisor, [Daniela Rus](https://danielarus.csail.mit.edu). Though she thinks of the research tree as a [data structure](https://en.wikipedia.org/wiki/Tree_(data_structure)), I like thinking of it as an actual tree.
 
-> This page is under construction. For now, enjoy some slides from my [thesis defense](https://youtu.be/53A-hAwizkY?feature=shared) and job talk. 
+{{< img src="img/researchTree.png" alt="Schematic of a tree showing its roots, trunk, branches and leaves" caption="Modified vector image from VectorStock / buqancreative" link="https://www.vectorstock.com/royalty-free-vector/tree-silhouette-with-root-design-vector-33590270" >}}
 
-{{< gallery directory="img/research/*.png" captionFile="assets/null.txt" >}}
+This metaphor works from the bottom up:
+1. **Roots:** These are the true guiding principles that motivate you to do research. They stay underground most of the time
+2. **Trunk:** The "thesis of the thesis". The core idea that defines your research.
+3. **Branches:** Different questions that this core idea brings up
+4. **Leaves:** Individual research papers that answer the branch's question
 
-I am in the process of consolidating these different narratives together into one coherent story, but to summarize from the slides:
+<p></p>
 
-* Robots are far from the close hugging companions that sci-fi imagine them to be. One major limitation is the bodies that they are in are not well suited for the environment that we place them in.
-* Robots are not the only ones to have questions about this body-environment fit. Disability activists have campaigned for the built environment to better match their state of being. **How can we use the lessons from disability activism to change how we design robot bodies?**
-* I take inspiration from [Ashley Shew](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html), [Aimi Hamraie](https://aimihamraie.com), [Sara Hendren](https://sarahendren.com/about/) and other scholars who say that design for disability must come from ["playing with the material world"](https://catalystjournal.org/index.php/catalyst/article/view/29617)
-* From this, I imagine a pyramid. The base level is "bodies", which questions how both robot bodies and human bodies interact with their environment. The next level is "materials", where we recognize that materials drive the interface between a body and its environment. The final top level is "geometry", which is my intervention. **My key research approach is to design a material's geometry for robotic functionality** such as structure, actuation and perception. My vision is that by designing things on the geometric level, we can more clearly design a material's mechanical properties and thus better govern how a given body will meet the world.
-* If we zoom in on the top "geometry" layer of the pyramid, we can see how my previous work fits into this structure. We can use auxetic geometry as an actuator ([handed shearing auxetics](https://youtu.be/53NXnPTG9Ik?feature=shared) and [AuxBots](https://youtu.be/8mhclLQWb_Q?feature=shared)), the [fluidic innervation](https://www.science.org/doi/full/10.1126/sciadv.abq4385) technique as a sensorization method, and then combine the two to make all-in-one robots.
-* Zooming out to the bodies level, we can now ask the questions
-	1. What bodies can we create?
-	2. How do these bodies interact with their environment?
-	3. Who are these bodies for?
-* These questions require not just improvements in the robotics sphere but also inclusion of techniques from design studies, disability studies and other social science / interdisciplinary fields. I include some speculative slides at the end of potential ways to answer these questions.
+Given this metaphor, this website focuses on my *research roots*, especially since this is my personal website. If you'd like to know more about my specific research, please look at [my lab website](https://merge-lab.github.io/publications/), which will give the much more granular leaf-focused view of my research tree.
+

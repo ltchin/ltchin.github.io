@@ -17,15 +17,23 @@ body {
   max-width: 800px;
   margin: auto;
   padding-top: 20px;
-  line-height: 1.7;
+  line-height: 1.65;
 }
 
 h1, h2 , h3{
-  margin: 0.2em 0;
+  margin: 15px 0 0.5em 0;
 }
 
 p {
-  margin: 0 0 1em;
+  margin: 0.2em 0 0.5em;
+}
+
+ul, ol {
+  margin: 4px 0;
+}
+
+li {
+  padding-bottom: 5px;
 }
 
 figure,
@@ -35,6 +43,20 @@ iframe {
   max-inline-size: 100%;
   block-size: auto;
   margin: 0.2em 0.7em;
+}
+
+/************************/
+
+#TableOfContents {
+  margin-top: 1em;
+}
+
+#TableOfContents li {
+  padding-bottom: 1px;
+}
+
+#TableOfContents ul {
+  margin-top: 1px;
 }
 
 /*******************************************************************/
@@ -163,6 +185,12 @@ blockquote {
   background: #FCF1D0; 
   margin:0;
   padding: 0px 15px;
+}
+
+figure{
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
 }
 
 /*******************************************************************/

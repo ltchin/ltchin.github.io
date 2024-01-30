@@ -35,15 +35,15 @@ menu:
       url: "projects/"
       weight: 4
     - name: Crafting
-      url: "crafting/"
+      url: "projects/crafting/"
       parent: "Projects"
       weight: 5
     - name: Making
-      url: "making/"
+      url: "projects/making/"
       parent: "Projects"
       weight: 5
     - name: Writing
-      url: "writing/"
+      url: "projects/writing/"
       parent: "Projects"
       weight: 5
     - name: Press
