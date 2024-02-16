@@ -38,12 +38,8 @@ angle bracket squiggle bracket squiggle bracket
       srcset='{{ if ge $src.Width "200" }} {{$tiny.RelPermalink}} 200w {{ end }}
       {{ if ge $src.Width "400" }} {{$small.RelPermalink}} 400w {{ end }}
       {{ if ge $src.Width "600" }} {{$medium.RelPermalink}} 600w {{ end }}
-      {{ if ge $src.Width "800" }} {{ $large.RelPermalink }}800w  {{ end }}'
-      {{ if ge $src.Width $medium.Width }}
-        src="{{ $medium.RelPermalink }}"
-      {{ else }}
-        src="{{ $src.RelPermalink }}"
-      {{ end }}
+      {{ if ge $src.Width "800" }} {{ $large.RelPermalink }} 800w  {{ end }}'
+      src="{{ $src.RelPermalink }}"
       {{ with .Get "alt" }}alt='{{.}}'{{ end }}
     />
   </a>
