@@ -1,7 +1,7 @@
 ---
 title: Research Philosophy
 toc: true
-preamble: By sharing what the [philosophical roots](/research/) of my research are, I hope to give a sense of what motivates me and what questions I like to ask. These are the longstanding questions that I would like to explore through [my lab](https://merge-lab.github.io/research/).
+preamble: By sharing what the [philosophical roots](/research/) of my research are, I hope to give a sense of what motivates me and what questions I like to ask. These are the longstanding questions that I would like to explore through [my lab](https://merge-lab.github.io/research/).<p></p> **tl;dr** -- My research vision is to build robots' physical bodies in dialogue with human communities by (1) directly designing the geometry of the materials that make up robots and (2) using [design justice](https://designjustice.mitpress.mit.edu) as a tool to include all voices in the robot design process.
 ---
 
 {{< img src="img/philosophyOverview.png" alt="A three-layer pyramid. From bottom to top, the layers are 'Bodies', 'Materials' and 'Geometry'."  caption="Slide from my dissertation, highlighting how disability thinking can inform building robots." link="https://youtu.be/53A-hAwizkY" >}}
