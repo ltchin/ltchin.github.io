@@ -8,6 +8,7 @@ toc: true
 
 ### Mainstream Outlets
 
+<!-- * Scientific American (quoted) -- ["Bizarre material combines the best traits of gel and metal"](https://www.scientificamerican.com/article/bizarre-material-combines-the-best-traits-of-gel-and-metal1/) -->
 * BBC -- ["The robot that sorts out recycling"](https://www.bbc.com/news/av/technology-47826476/the-robot-that-sorts-out-recycling)
 * Reuters -- ["Robot identifies recycling with a squeeze"](https://uk.reuters.com/video/2019/04/17/robot-identifies-recycling-with-a-squeez?videoId=539015307)
 * VICE News -- ["The Future of Work: A VICE special report"](https://www.youtube.com/watch?v=_LOjXwKB7V0&feature=youtu.be&t=4)
@@ -46,8 +47,8 @@ toc: true
 <li>IET -- <a href="https://eandt.theiet.org/content/articles/2019/04/recycling-robot-that-sorts-waste-by-touch-built-by-scientists/">"Recycling robot that sorts waste by 'touch' built by scientists"</a></li>
 <li>Science Times -- <a href="https://www.sciencetimes.com/articles/20148/20190415/recycling-bot-may-save-planet-earth.htm">(1)</a>, <a href="https://www.sciencetimes.com/articles/20406/20190418/scientists-design-a-robot-hand-that-can-segregate-recyclable-waste.htm">(2)</a>, <a href="https://www.sciencetimes.com/articles/20128/20190414/tactile-sensors-boost-recycling-capacity-of-robot.htm">(3)</a></li>-->
 
-### MIT Coverage
-
+### Affiliated Coverage
+* Schmidt Science Fellows -- [TEMP](https://schmidtsciencefellows.org/news/sensorized-materials-3d-printed/)
 * MIT News -- [Researchers' algorithm designs soft robots that sense](https://news.mit.edu/2021/sensor-soft-robots-placement-0322)
 * MIT Technology Review -- ["This robot can sort recycling by giving it a squeeze"](https://www.technologyreview.com/s/613299/this-robot-can-sort-recycling-by-giving-it-a-squeeze/)
 * MIT News -- ["Robots that can sort recycling"](http://news.mit.edu/2019/mit-robots-can-sort-recycling-0416)
@@ -81,9 +82,14 @@ Since Jeopardy is a national show, below is only a selection of the articles wri
 
 {{< small_hr >}}
 
-## Activism
+## Student Activism
 
 Throughout my time at MIT as an undergraduate and graduate student, I have felt called upon to speak truth to power. Below is a compilation of articles that either use my picture or quote me directly. In this space, I've tried to focus on what other people have written about the situation. My own write-ups on what happened are either repeated here or can be found in my [Writing](/projects/writing/index.html) page.
+
+### MIT Grad Student Unionization (2022)
+In 2022, I worked on the "Get Out the Vote" campaign for the MIT grad student unionization campaign. While I had known about the unionization effort from the start, I only had enough energy to be involved in the last few months of the election campaign. We ultimately were successful, winning with a 2:1 margin.
+
+* WBUR -- [TEMP](https://www.wbur.org/news/2022/04/06/mit-graduate-students-union-cambridge)
 
 ### MIT COVID Response (2020)
 
@@ -105,16 +111,14 @@ A contemporary chronological summary of events from my perspective can be read [
 * The Tech -- [North Court renamed after Susan Hockfield](https://thetech.com/2019/10/10/protestors-rally-against-renaming-hockfield-court)
 * VICE News -- ["Students Are Demanding MIT Fire a Professor Who Visited Epstein in Prison"](https://www.vice.com/en/article/ne8yvk/students-are-demanding-mit-fire-a-professor-who-visited-epstein-in-prison)
 
-### MIT Undergraduate Student Life (2013-2017)
-
-#### Dorm Security Protests (2014 - 2015)
+### Dorm Security Protests (2014 - 2015)
 
 In the 2014-2015 school year, "dorm security" became a subcontracted position, replacing student workers and creating an unwelcome environment, as summarized [here](https://thetech.com/2014/11/18/dormsecurity-v134-n55), [here](https://thetech.com/2015/04/17/letters-v135-n12), and [here](https://thetech.com/2016/04/08/security-v136-n11). My frustration with these rules led me to first conduct my own surveys and then later chair the Undergraduate Association's (UA's) Committee on Student-Administration Collaboration.
 
 * [Personal essay](/files/ltchin_Burchard.pdf) summarizing my 2014-2015 protests against changes in the MIT Dormitory Security Policy
 * The Tech -- ["Students: get involved with MIT's policymaking processes"](https://thetech.com/2016/04/19/security-policies), op-ed summarizing how dorm security led me to undergraduate student government
 
-#### UA Student-Admin Collaboration Committee(2015 - 2017)
+### UA Student-Admin Collaboration Committee (2015 - 2017)
 
 As the chair of the UA Committee on Student-Administration Collaboration, I was one of the key student government officials when student-admin relations fell through. This happened most dramatically with the forced closure of the Senior House dorm, as summarized contemporaneously [here](https://mitadmissions.org/blogs/entry/whats-happening-with-senior-house/) and [here](https://mitadmissions.org/blogs/entry/data-justice-for-senior-house/).
 
@@ -129,6 +133,7 @@ As the chair of the UA Committee on Student-Administration Collaboration, I was 
 
 Articles with a personal focus that don't fit any of the above categories
 
+* [PD Soros writeup](https://www.pdsoros.org/news-events/paul-daisy-soros-fellow-lillian-chin-selected-as-2023-schmidt-science-fellow) about winning the Schmidt Science Fellowship
 * ["Sept a Huit" documentary](https://www.youtube.com/watch?v=ag45W_FTTiM) following me and other MIT students. No English subtitles but Google Translate does an OK job.
 * ["Strong Feelings" podcast (formerly "No, You Go")](https://www.strongfeelings.co/podcast/s2e9/) which starts off talking about Jeopardy, but goes more into female mentorship
 * [Paul and Daisy Soros Fellow bio](https://www.pdsoros.org/meet-the-fellows/lillian-chin)
