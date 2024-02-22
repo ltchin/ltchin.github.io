@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research on Lilly Chin</title>
-    <link>//localhost:1313/research/</link>
-    <description>Recent content in Research on Lilly Chin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research Philosophy</title>
-      <link>//localhost:1313/research/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/philosophy/</guid>
-      <description>Slide from my dissertation, highlighting how disability thinking can inform building robots.&#xA;Bodies and the Built Environment In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in 2016 or a chess-playing robot breaking a child&amp;rsquo;s finger in 2022. I argue that this is because current robot bodies are not well-suited for the environments that we place them in.</description>
-    </item>
-    <item>
-      <title>Who Taught Me</title>
-      <link>//localhost:1313/research/who-taught-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/who-taught-me/</guid>
-      <description>Inspired by Aimi Hamraie&amp;rsquo;s list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the great man theory approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Lilly Chin</title><link>/research/</link><description>Recent content in Research on Lilly Chin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Philosophy</title><link>/research/philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/philosophy/</guid><description>Slide from my dissertation, highlighting how disability thinking can inform building robots.
+Bodies and the Built Environment In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in 2016 or a chess-playing robot breaking a child&amp;rsquo;s finger in 2022. I argue that this is because current robot bodies are not well-suited for the environments that we place them in.</description></item><item><title>Who Taught Me</title><link>/research/who-taught-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/who-taught-me/</guid><description>Inspired by Aimi Hamraie&amp;rsquo;s list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the great man theory approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!</description></item></channel></rss>
