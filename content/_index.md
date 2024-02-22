@@ -18,7 +18,7 @@ Hello! I'm Lilly Chin, an assistant professor at UT Austin's Electrical and Comp
 
 {{< small_hr >}}
 
-This is my personal website and thus focuses on me rather than my job. The academic pages here highlight my [philosophy towards research](/research/philosophy) and the [people who shaped that philosophy](/research/who-taught-me)
+This is my personal website and thus focuses on me rather than my job. The academic pages here highlight my [philosophy towards research](/research/philosophy) and the [people who shaped that philosophy](/research/who-taught-me).
 
 This website also serves as an archive of my personal projects, ranging from [engineering](/projects/making) to [visual art](/projects/crafting) to [amateur and professional writing](/projects/writing). I also keep an archive of my higher visibility activities such as my performance on Jeopardy! as the [2017 College Champion / "spiciest memelord"](/press/#jeopardy).
 
