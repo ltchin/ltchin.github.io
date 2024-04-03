@@ -23,7 +23,7 @@ toc: true
 <!--  -->
 
 ### Tech Outlets
-
+* TCT Magazine -- ["New programmable 3D printed materials can sense their own movements"](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/new-programmable-3d-printed-materials-can-sense-their-own-movements/)
 * AZO Robotics -- ["The Development of an Algorithm that Helps Soft Robots Understand Their Surroundings"](https://www.azorobotics.com/Article.aspx?ArticleID=393)
 * Venture Beat -- ["MIT robot sorts recycling and trash by touch"](https://venturebeat.com/2019/04/10/mit-robot-sorts-recycling-and-trash-by-touch/)
 * TechCrunch -- ["MIT's recycling sorting robot can 'feel' the difference between materials](https://techcrunch.com/2019/04/11/mits-recycling-sorting-robot-can-feel-the-difference-between-materials/)
@@ -48,8 +48,8 @@ toc: true
 <li>Science Times -- <a href="https://www.sciencetimes.com/articles/20148/20190415/recycling-bot-may-save-planet-earth.htm">(1)</a>, <a href="https://www.sciencetimes.com/articles/20406/20190418/scientists-design-a-robot-hand-that-can-segregate-recyclable-waste.htm">(2)</a>, <a href="https://www.sciencetimes.com/articles/20128/20190414/tactile-sensors-boost-recycling-capacity-of-robot.htm">(3)</a></li>-->
 
 ### Affiliated Coverage
-* Schmidt Science Fellows -- [TEMP](https://schmidtsciencefellows.org/news/sensorized-materials-3d-printed/)
-* MIT News -- [Researchers' algorithm designs soft robots that sense](https://news.mit.edu/2021/sensor-soft-robots-placement-0322)
+* Schmidt Science Fellows -- ["Sensorized" materials are 3D printed with a new take on soft sensors](https://schmidtsciencefellows.org/news/sensorized-materials-3d-printed/)
+* MIT News -- ["Researchers' algorithm designs soft robots that sense"](https://news.mit.edu/2021/sensor-soft-robots-placement-0322)
 * MIT Technology Review -- ["This robot can sort recycling by giving it a squeeze"](https://www.technologyreview.com/s/613299/this-robot-can-sort-recycling-by-giving-it-a-squeeze/)
 * MIT News -- ["Robots that can sort recycling"](http://news.mit.edu/2019/mit-robots-can-sort-recycling-0416)
 * MIT CSAIL News -- ["Robots that can sort recycling"](https://www.csail.mit.edu/news/robots-can-sort-recycling)

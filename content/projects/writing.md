@@ -93,7 +93,7 @@ I took this class with [Professor Nick Montfort](http://www.nickm.com/classes/in
 
 #### _Ex Machina_ by Jonathan Ball
 
-*   [Twine version](/projects/ExMachina.html) of the main book
+*   [Twine version](/files/ExMachina.html) of the main book
 *   [Graph of connections](/img_static/ExMachinaGraph.jpg), made by Joshua Sloane using Mathematica
 *   [Analysis](/files/ltchin_ExMachina.pdf) of the book
 
