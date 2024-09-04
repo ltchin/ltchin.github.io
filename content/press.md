@@ -23,6 +23,8 @@ toc: true
 <!--  -->
 
 ### Tech Outlets
+* Popular Science -- ["Can grocery-bagging robots make self-checkout less of a pain?"](https://www.popsci.com/technology/grocery-bagging-robot-self-checkout/)
+* TechCrunch -- ["MIT's soft robotic system is designed to pack groceries"](https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/)
 * TCT Magazine -- ["New programmable 3D printed materials can sense their own movements"](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/new-programmable-3d-printed-materials-can-sense-their-own-movements/)
 * AZO Robotics -- ["The Development of an Algorithm that Helps Soft Robots Understand Their Surroundings"](https://www.azorobotics.com/Article.aspx?ArticleID=393)
 * Venture Beat -- ["MIT robot sorts recycling and trash by touch"](https://venturebeat.com/2019/04/10/mit-robot-sorts-recycling-and-trash-by-touch/)
@@ -89,7 +91,7 @@ Throughout my time at MIT as an undergraduate and graduate student, I have felt 
 ### MIT Grad Student Unionization (2022)
 In 2022, I worked on the "Get Out the Vote" campaign for the MIT grad student unionization campaign. While I had known about the unionization effort from the start, I only had enough energy to be involved in the last few months of the election campaign. We ultimately were successful, winning with a 2:1 margin.
 
-* WBUR -- [TEMP](https://www.wbur.org/news/2022/04/06/mit-graduate-students-union-cambridge)
+* WBUR -- ["MIT graduate students vote to form union"](https://www.wbur.org/news/2022/04/06/mit-graduate-students-union-cambridge)
 
 ### MIT COVID Response (2020)
 
