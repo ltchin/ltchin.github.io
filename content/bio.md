@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-## [Link to high-res headshot](/img_static/ltchin-headshot.png)
+## [Link to high-res headshot](/img_static/ltchin-headshot.jpg)
 
 ## Short Biography
 Lillian Chin is an Assistant Professor at UT Austin in the Department of Electrical and Computer Engineering. She received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Her research interests include designing novel robot sensors and actuators, algorithmically generating mechanisms, enhancing robotic manipulation through tactile sensing, and deploying participatory design-based robots in real-world communities.

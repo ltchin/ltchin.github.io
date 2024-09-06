@@ -1,7 +1,7 @@
 ---
 title: About This Site
 ---
-This site is a hybrid of [Jonathan McGlone](http://jmcglone.com)'s website in Jekyll and [Yihui Xie](https://xmin.yihui.org/)'s XMin template for Hugo. I ported most of my old Bootstrap + Jekyll website to a version where I try to 
+This site is a hybrid of [Jonathan McGlone](http://jmcglone.com)'s website in Jekyll and [Yihui Xie](https://xmin.yihui.org/)'s XMin template for Hugo. I ported most of my old Bootstrap + Jekyll website to a Hugo version where I try to 
 1. understand every line of code rather than copy-pasting wholesale
 1. minimize Javascript usage
 1. make the website accessible to screen readers
@@ -16,6 +16,6 @@ Additional site details:
 * Using typefaces [Merriweather](http://www.google.com/fonts/specimen/Merriweather) and [Montserrat](http://www.google.com/fonts/specimen/Montserrat)
 * Favicon modified from [favicon.cc](http://www.favicon.cc/?action=icon&file_id=105117 "Favicon Generator")
 * Social media icons taken from [icons8.com](https://icons8.com)
-<!-- * Placeholder images taken from [placehold.it](http://placehold.it "Placehold.it") -->
 * Button CSS modified from [Federico Dossena](https://fdossena.com/?p=html5cool/buttons/i.frag)
 * Gallery code modified from [Mert Bakir](https://mertbakir.gitlab.io/hugo/nanogallery2-with-hugo/)
+<!-- * Placeholder images taken from [placehold.it](http://placehold.it "Placehold.it") -->

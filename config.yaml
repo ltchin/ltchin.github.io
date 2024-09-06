@@ -49,6 +49,17 @@ menu:
     - name: Press
       url: "press/"
       weight: 6
+    - name: FAQ
+      url: "faq/"
+      weight: 7
+    - name: Emails
+      url: "faq/emails"
+      parent: "FAQ"
+      weight: 1
+    - name: Admissions
+      url: "faq/admissions"
+      parent: "FAQ"
+      weight: 2
 
 params:
   description: "Lilly Chin's website"

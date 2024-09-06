@@ -1,24 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Lilly Chin</title><link>//localhost:1313/</link><description>Recent content in Home on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>//localhost:1313/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/bio/</guid><description>&lt;h2 id="link-to-high-res-headshotimg_staticltchin-headshotpng">&lt;a href="//localhost:1313/img_static/ltchin-headshot.png">Link to high-res headshot&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Lilly Chin</title><link>/</link><description>Recent content in Home on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bio/</guid><description>&lt;h2 id="link-to-high-res-headshotimg_staticltchin-headshotjpg">&lt;a href="/img_static/ltchin-headshot.jpg">Link to high-res headshot&lt;/a>&lt;/h2>
 &lt;h2 id="short-biography">Short Biography&lt;/h2>
 &lt;p>Lillian Chin is an Assistant Professor at UT Austin in the Department of Electrical and Computer Engineering. She received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Her research interests include designing novel robot sensors and actuators, algorithmically generating mechanisms, enhancing robotic manipulation through tactile sensing, and deploying participatory design-based robots in real-world communities.&lt;/p>
 &lt;h2 id="long-biography">Long Biography&lt;/h2>
-&lt;p>Lillian Chin is an Assistant Professor and a Texas Instruments / Jack Kilby Fellow in the University of Texas, Austin&amp;rsquo;s Department of Electrical and Computer Engineering and a core member of the Texas Robotics Consortium. She is interested in designing robotic bodies and their materials for optimized interaction with their environment through embedded perception and computational design. Lillian received her bachelors, masters and PhD degrees in Electrical Engineering and Computer Science at MIT. For the 2023-2024 school year, she is currently working as a &lt;a href="https://schmidtsciencefellows.org">Schmidt Science Fellow&lt;/a> at the National Institutes of Health under &lt;a href="https://irp.nih.gov/pi/leonardo-cohen">Leo Cohen&lt;/a> and &lt;a href="https://www.cc.nih.gov/meet-our-doctors/tbulea.html">Tom Bulea&lt;/a>.&lt;/p></description></item><item><title>About This Site</title><link>//localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/about/</guid><description>&lt;p>This site is a hybrid of &lt;a href="http://jmcglone.com">Jonathan McGlone&lt;/a>&amp;rsquo;s website in Jekyll and &lt;a href="https://xmin.yihui.org/">Yihui Xie&lt;/a>&amp;rsquo;s XMin template for Hugo. I ported most of my old Bootstrap + Jekyll website to a version where I try to&lt;/p>
+&lt;p>Lillian Chin is an Assistant Professor and a Texas Instruments / Jack Kilby Fellow in the University of Texas, Austin&amp;rsquo;s Department of Electrical and Computer Engineering and a core member of the Texas Robotics Consortium. She is interested in designing robotic bodies and their materials for optimized interaction with their environment through embedded perception and computational design. Lillian received her bachelors, masters and PhD degrees in Electrical Engineering and Computer Science at MIT. For the 2023-2024 school year, she is currently working as a &lt;a href="https://schmidtsciencefellows.org">Schmidt Science Fellow&lt;/a> at the National Institutes of Health under &lt;a href="https://irp.nih.gov/pi/leonardo-cohen">Leo Cohen&lt;/a> and &lt;a href="https://www.cc.nih.gov/meet-our-doctors/tbulea.html">Tom Bulea&lt;/a>.&lt;/p></description></item><item><title>About This Site</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>This site is a hybrid of &lt;a href="http://jmcglone.com">Jonathan McGlone&lt;/a>&amp;rsquo;s website in Jekyll and &lt;a href="https://xmin.yihui.org/">Yihui Xie&lt;/a>&amp;rsquo;s XMin template for Hugo. I ported most of my old Bootstrap + Jekyll website to a Hugo version where I try to&lt;/p>
 &lt;ol>
 &lt;li>understand every line of code rather than copy-pasting wholesale&lt;/li>
 &lt;li>minimize Javascript usage&lt;/li>
 &lt;li>make the website accessible to screen readers&lt;/li>
 &lt;li>make the website accessible to low bandwidth users&lt;/li>
 &lt;/ol>
-&lt;p>Please &lt;a href="https://litchin.wordpress.com/contact/">let me know&lt;/a> if you have some recommendations for how to better achieve those goals. I particularly welcome feedback from users with disabilities.&lt;/p></description></item><item><title>Contact Me</title><link>//localhost:1313/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/contact/</guid><description>&lt;blockquote>
-&lt;h2 id="note-on-chatgpt">Note on ChatGPT&lt;/h2>
-&lt;p>I discourage using ChatGPT to email me because&lt;/p>
-&lt;ol>
-&lt;li>I can usually tell&lt;/li>
-&lt;li>the writing style is hella annoying purple prose (link)&lt;/li>
-&lt;li>it robs you of a chance to develop your own writing skills&lt;/li>
-&lt;/ol>
-&lt;p>If you must use it, please ask for it to give you a &lt;em>very concise&lt;/em> email and don&amp;rsquo;t just paste in the four paragraphs it spat out to you. I&amp;rsquo;d &lt;em>always&lt;/em> prefer to see a email with many grammar mistakes than a generated email.&lt;/p></description></item><item><title>Crafting</title><link>//localhost:1313/projects/crafting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/crafting/</guid><description>&lt;h2 id="cross-stitching">Cross-Stitching&lt;/h2>
-&lt;p>I started cross-stitch in Dec. 2019, because of this &lt;a href="https://gumroad.com/l/EBtyT">Shitpost Sampler goose pattern&lt;/a> sent to me by a friend. I was so taken by it that I taught myself from online resources in order to learn how to make it. This started a near addiction in me, especially as I found myself with a lot of time and screen burnout from the COVID-19 pandemic. Since most of my traditional hobbies became off limits, cross-stitching quickly became my go-to.&lt;/p></description></item><item><title>Making</title><link>//localhost:1313/projects/making/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/making/</guid><description>&lt;blockquote>
+&lt;p>Please &lt;a href="https://litchin.wordpress.com/contact/">let me know&lt;/a> if you have some recommendations for how to better achieve those goals. I particularly welcome feedback from users with disabilities.&lt;/p></description></item><item><title>Advice on Contacting Me</title><link>/faq/emails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/emails/</guid><description>&lt;h2 id="general-tips">General Tips&lt;/h2>
+&lt;ul>
+&lt;li>Using my &lt;a href="https://litchin.wordpress.com/contact/">contact form&lt;/a> will reduce the chance that your email gets into spam.&lt;/li>
+&lt;li>Make it as easy as possible for me to respond to your email.
+&lt;ul>
+&lt;li>If you have an ask, put it as close to the top as possible.&lt;/li>
+&lt;li>Have your first paragraph be as short and direct as possible.&lt;/li>
+&lt;li>Use formatting (bold, italics, etc.) if you want to highlight something for me to notice (so don&amp;rsquo;t use it for every sentence!)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Scheduling is personally hard for me. Suggest multiple ranges of times that work for you.&lt;/li>
+&lt;/ul>
+&lt;h3 id="note-on-chatgpt">Note on ChatGPT&lt;/h3>
+&lt;p>I discourage using ChatGPT to email me because&lt;/p></description></item><item><title>Crafting</title><link>/projects/crafting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/crafting/</guid><description>&lt;h2 id="cross-stitching">Cross-Stitching&lt;/h2>
+&lt;p>I started cross-stitch in Dec. 2019, because of this &lt;a href="https://gumroad.com/l/EBtyT">Shitpost Sampler goose pattern&lt;/a> sent to me by a friend. I was so taken by it that I taught myself from online resources in order to learn how to make it. This started a near addiction in me, especially as I found myself with a lot of time and screen burnout from the COVID-19 pandemic. Since most of my traditional hobbies became off limits, cross-stitching quickly became my go-to.&lt;/p></description></item><item><title>Making</title><link>/projects/making/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/making/</guid><description>&lt;blockquote>
 &lt;p>This page is under construction. For now, enjoy my notes from the previous iteration of the website for what to include. All of these are from undergrad, so I may not include any of these moving forwards. I might just have them as an image gallery setup or a CV of failures.&lt;/p>
 &lt;/blockquote>
 &lt;p>&lt;strong>Github:&lt;/strong>&lt;/p>
@@ -27,7 +32,7 @@
 &lt;li>&lt;a href="https://github.com/hm29168">Old&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/wiredcats">Very Old&lt;/a> (FIRST Robotics)&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Proud (in undergrad) Projects&lt;/strong>&lt;/p></description></item><item><title>Press</title><link>//localhost:1313/press/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/press/</guid><description>&lt;h2 id="robotics-research">Robotics Research&lt;/h2>
+&lt;p>&lt;strong>Proud (in undergrad) Projects&lt;/strong>&lt;/p></description></item><item><title>Press</title><link>/press/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/press/</guid><description>&lt;h2 id="robotics-research">Robotics Research&lt;/h2>
 &lt;h3 id="mainstream-outlets">Mainstream Outlets&lt;/h3>
 &lt;!-- * Scientific American (quoted) -- ["Bizarre material combines the best traits of gel and metal"](https://www.scientificamerican.com/article/bizarre-material-combines-the-best-traits-of-gel-and-metal1/) -->
 &lt;ul>
@@ -81,7 +86,7 @@
 &lt;/ul>
 &lt;center>&lt;hr width="90%">&lt;/center>
 &lt;h2 id="jeopardy">Jeopardy&lt;/h2>
-&lt;p>I won the &lt;a href="https://www.jeopardy.com/tournaments/2017/college-championship">2017 Jeopardy College Championship&lt;/a>, which led me to getting a lot of media attention, especially for my memetic Final Jeopardy response. I was then invited to compete on the &lt;a href="https://www.jeopardy.com/tournaments/2017/tournament-of-champions">2017 Jeopardy Tournament of Champions&lt;/a>, where I got to the semifinals.&lt;/p></description></item><item><title>Research Philosophy</title><link>//localhost:1313/research/philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/research/philosophy/</guid><description>&lt;figure >
+&lt;p>I won the &lt;a href="https://www.jeopardy.com/tournaments/2017/college-championship">2017 Jeopardy College Championship&lt;/a>, which led me to getting a lot of media attention, especially for my memetic Final Jeopardy response. I was then invited to compete on the &lt;a href="https://www.jeopardy.com/tournaments/2017/tournament-of-champions">2017 Jeopardy Tournament of Champions&lt;/a>, where I got to the semifinals.&lt;/p></description></item><item><title>Research Philosophy</title><link>/research/philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/philosophy/</guid><description>&lt;figure >
  &lt;a href="https://youtu.be/53A-hAwizkY">
  &lt;img
  loading="lazy"
@@ -90,18 +95,31 @@
  /img/philosophyOverview_hu10659432553938748375.png 400w 
  /img/philosophyOverview_hu6973903310723979956.png 600w 
  /img/philosophyOverview_hu17600101644757561214.png 800w '
- src="//localhost:1313/img/philosophyOverview.png"
+ src="/img/philosophyOverview.png"
  alt='A three-layer pyramid. From bottom to top, the layers are &amp;#39;Bodies&amp;#39;, &amp;#39;Materials&amp;#39; and &amp;#39;Geometry&amp;#39;.'
  />
  &lt;/a>
  &lt;figcaption>Slide from my dissertation, highlighting how disability thinking can inform building robots.&lt;/figcaption>&lt;br>
 &lt;/figure>
 &lt;h2 id="bodies-and-the-built-environment">Bodies and the Built Environment&lt;/h2>
-&lt;p>In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in &lt;a href="https://www.nbcnews.com/business/business-news/security-robots-expand-across-u-s-few-tangible-results-n1272421">2016&lt;/a> or a chess-playing robot breaking a child&amp;rsquo;s finger in &lt;a href="https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow">2022&lt;/a>. I argue that this is because &lt;strong>current robot bodies are not well-suited for the environments that we place them in&lt;/strong>.&lt;/p></description></item><item><title>Who Taught Me</title><link>//localhost:1313/research/who-taught-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/research/who-taught-me/</guid><description>&lt;p>Inspired by &lt;a href="https://aimihamraie.com/Who-taught-me">Aimi Hamraie&amp;rsquo;s&lt;/a> list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the &lt;a href="https://en.wikipedia.org/wiki/Great_man_theory">great man theory&lt;/a> approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!&lt;/p></description></item><item><title>Writing</title><link>//localhost:1313/projects/writing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/writing/</guid><description>&lt;h2 id="professional-pieces">Professional Pieces&lt;/h2>
+&lt;p>In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in &lt;a href="https://www.nbcnews.com/business/business-news/security-robots-expand-across-u-s-few-tangible-results-n1272421">2016&lt;/a> or a chess-playing robot breaking a child&amp;rsquo;s finger in &lt;a href="https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow">2022&lt;/a>. I argue that this is because &lt;strong>current robot bodies are not well-suited for the environments that we place them in&lt;/strong>.&lt;/p></description></item><item><title>Who Taught Me</title><link>/research/who-taught-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/who-taught-me/</guid><description>&lt;p>Inspired by &lt;a href="https://aimihamraie.com/Who-taught-me">Aimi Hamraie&amp;rsquo;s&lt;/a> list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the &lt;a href="https://en.wikipedia.org/wiki/Great_man_theory">great man theory&lt;/a> approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!&lt;/p></description></item><item><title>Working with Me</title><link>/faq/admissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/admissions/</guid><description>&lt;h2 id="who-am-i-hiring">Who Am I Hiring?&lt;/h2>
+&lt;p>As of Sept. 2024, I am primarily hiring the following groups of people:&lt;/p>
+&lt;ul>
+&lt;li>Current UT undergraduates
+&lt;ul>
+&lt;li>I do not take first semester undergraduates who come straight from high school&lt;/li>
+&lt;li>I &lt;em>do&lt;/em> take transfer students and non-traditional undergraduates who are in their first semester&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Current UT graduate students&lt;/li>
+&lt;li>Prospective PhD students&lt;/li>
+&lt;li>Prospective postdocs with their own sources of funding&lt;/li>
+&lt;/ul>
+&lt;p>Due to limited bandwidth, I currently cannot take on the following groups of people in my lab:&lt;/p></description></item><item><title>Writing</title><link>/projects/writing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/writing/</guid><description>&lt;h2 id="professional-pieces">Professional Pieces&lt;/h2>
 &lt;ul>
 &lt;li>One of several stories solicited by The Nation &amp;ndash; &lt;a href="https://www.thenation.com/article/society/campuses-across-the-country-are-closing-these-are-the-students-impacted/">&amp;ldquo;Campuses Across the Country Are Closing—These Are the Students Impacted&amp;rdquo;&lt;/a>, March 16, 2020&lt;/li>
 &lt;li>Pitched and published a piece for The Bitter Southerner. Please &lt;a href="https://litchin.wordpress.com/contact/">contact me&lt;/a> for more details.&lt;/li>
 &lt;/ul>
 &lt;center>&lt;hr width="90%">&lt;/center>
 &lt;h2 id="amateur-pieces">Amateur Pieces&lt;/h2>
-&lt;p>This space is reserved for my own writing. Interviews with me about these events can be found on my &lt;a href="//localhost:1313/press/index.html">press&lt;/a> page. My writing about my Jeopardy experiences has been moved to &lt;a href="//localhost:1313/research/cms/jeopardy.html">here.&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>This space is reserved for my own writing. Interviews with me about these events can be found on my &lt;a href="/press/index.html">press&lt;/a> page. My writing about my Jeopardy experiences has been moved to &lt;a href="/research/cms/jeopardy.html">here.&lt;/a>&lt;/p></description></item></channel></rss>

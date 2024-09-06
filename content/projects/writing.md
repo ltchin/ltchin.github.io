@@ -1,6 +1,6 @@
 ---
 title: Writing
-preamble: Beyond the technical writing I do for my [research papers](/research/index.html), I do a lot of personal writing on the side, sometimes for pay, but most often for not. Most of this writing is either from undergraduate classes or from my student activism work.
+preamble: Beyond the technical writing I do for my [research papers](https://merge-lab.github.io/publications/), I do a lot of personal writing on the side, sometimes for pay, but most often for not. Most of this writing is either from undergraduate classes or from my student activism work.
 toc: true
 ---
 

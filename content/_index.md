@@ -10,7 +10,7 @@ headshot_alt: A headshot of Lilly Chin. She has short hair and rectangular wiref
 ## About Me
 Hello! I'm Lilly Chin, an assistant professor at UT Austin's Electrical and Computer Engineering department, where I run [MERGe Lab](https://merge-lab.github.io/). 
 
-<!-- * Before emailing me, read [**THIS**](/contact) for the highest chance of a reply. -->
+* If you would like to work with me, please read [**THIS FAQ**](/faq/admissions) for the highest chance of a reply.
 * For a professional bio, click [**HERE**](/bio). 
 * For my current research, refer to the MERGe Lab [research](https://merge-lab.github.io/research/) and [publication](https://merge-lab.github.io/publications) pages.
 
