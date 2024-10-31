@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research on Lilly Chin</title>
-    <link>//localhost:1313/research/</link>
-    <description>Recent content in Research on Lilly Chin</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research Philosophy</title>
-      <link>//localhost:1313/research/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/philosophy/</guid>
-      <description>&lt;figure  &gt;&#xA;  &lt;a href=&#34;https://youtu.be/53A-hAwizkY&#34;&gt;&#xA;    &lt;img&#xA;      loading=&#34;lazy&#34;&#xA;      sizes=&#34;(min-width: 35em) 1280px, 400px, 100vw (max-width: 1280)&#34; &#xA;      srcset=&#39; /img/philosophyOverview_hu4983768567781502591.png 200w &#xA;       /img/philosophyOverview_hu10659432553938748375.png 400w &#xA;       /img/philosophyOverview_hu6973903310723979956.png 600w &#xA;       /img/philosophyOverview_hu17600101644757561214.png 800w  &#39;&#xA;      src=&#34;//localhost:1313/img/philosophyOverview.png&#34;&#xA;      alt=&#39;A three-layer pyramid. From bottom to top, the layers are &amp;#39;Bodies&amp;#39;, &amp;#39;Materials&amp;#39; and &amp;#39;Geometry&amp;#39;.&#39;&#xA;    /&gt;&#xA;  &lt;/a&gt;&#xA;  &lt;figcaption&gt;Slide from my dissertation, highlighting how disability thinking can inform building robots.&lt;/figcaption&gt;&lt;br&gt;&#xA;&lt;/figure&gt;&#xA;&lt;h2 id=&#34;bodies-and-the-built-environment&#34;&gt;Bodies and the Built Environment&lt;/h2&gt;&#xA;&lt;p&gt;In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in &lt;a href=&#34;https://www.nbcnews.com/business/business-news/security-robots-expand-across-u-s-few-tangible-results-n1272421&#34;&gt;2016&lt;/a&gt; or a chess-playing robot breaking a child&amp;rsquo;s finger in &lt;a href=&#34;https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow&#34;&gt;2022&lt;/a&gt;. I argue that this is because &lt;strong&gt;current robot bodies are not well-suited for the environments that we place them in&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Who Taught Me</title>
-      <link>//localhost:1313/research/who-taught-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/who-taught-me/</guid>
-      <description>&lt;p&gt;Inspired by &lt;a href=&#34;https://aimihamraie.com/Who-taught-me&#34;&gt;Aimi Hamraie&amp;rsquo;s&lt;/a&gt; list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the &lt;a href=&#34;https://en.wikipedia.org/wiki/Great_man_theory&#34;&gt;great man theory&lt;/a&gt; approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Lilly Chin</title><link>/research/</link><description>Recent content in Research on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Philosophy</title><link>/research/philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/philosophy/</guid><description>&lt;figure >
+ &lt;a href="https://youtu.be/53A-hAwizkY">
+ &lt;img
+ loading="lazy"
+ sizes="(min-width: 35em) 1280px, 400px, 100vw (max-width: 1280)" 
+ srcset=' /img/philosophyOverview_hu4983768567781502591.png 200w 
+ /img/philosophyOverview_hu10659432553938748375.png 400w 
+ /img/philosophyOverview_hu6973903310723979956.png 600w 
+ /img/philosophyOverview_hu17600101644757561214.png 800w '
+ src="/img/philosophyOverview.png"
+ alt='A three-layer pyramid. From bottom to top, the layers are &amp;#39;Bodies&amp;#39;, &amp;#39;Materials&amp;#39; and &amp;#39;Geometry&amp;#39;.'
+ />
+ &lt;/a>
+ &lt;figcaption>Slide from my dissertation, highlighting how disability thinking can inform building robots.&lt;/figcaption>&lt;br>
+&lt;/figure>
+&lt;h2 id="bodies-and-the-built-environment">Bodies and the Built Environment&lt;/h2>
+&lt;p>In sci-fi, we imagine robots to be close companions to humans, living and working alongside us. However, real robots are quite far from this goal, including high-profile accidents such as a surveillance robot running over a toddler in &lt;a href="https://www.nbcnews.com/business/business-news/security-robots-expand-across-u-s-few-tangible-results-n1272421">2016&lt;/a> or a chess-playing robot breaking a child&amp;rsquo;s finger in &lt;a href="https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow">2022&lt;/a>. I argue that this is because &lt;strong>current robot bodies are not well-suited for the environments that we place them in&lt;/strong>.&lt;/p></description></item><item><title>Who Taught Me</title><link>/research/who-taught-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/who-taught-me/</guid><description>&lt;p>Inspired by &lt;a href="https://aimihamraie.com/Who-taught-me">Aimi Hamraie&amp;rsquo;s&lt;/a> list of who taught them, I&amp;rsquo;d like to make a (non-exhaustive) list of the people and things who taught me how to be a person and a researcher. Doing this is my way of fighting the &lt;a href="https://en.wikipedia.org/wiki/Great_man_theory">great man theory&lt;/a> approach that still tends to dominate academic framings. Academia provides precious little avenues to acknowledge and validate all of the people, labor and resources that shaped us, so here&amp;rsquo;s a page to celebrate the &amp;ldquo;interdependent researcher&amp;rdquo;!&lt;/p></description></item></channel></rss>
