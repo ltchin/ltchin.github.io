@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ on Lilly Chin</title><link>/faq/</link><description>Recent content in FAQ on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="/faq/index.xml" rel="self" type="application/rss+xml"/><item><title>Advice on Contacting Me</title><link>/faq/emails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/emails/</guid><description>&lt;h2 id="general-tips">General Tips&lt;/h2>
-&lt;ul>
-&lt;li>Using my &lt;a href="https://litchin.wordpress.com/contact/">contact form&lt;/a> will reduce the chance that your email gets into spam.&lt;/li>
-&lt;li>Make it as easy as possible for me to respond to your email.
-&lt;ul>
-&lt;li>If you have an ask, put it as close to the top as possible.&lt;/li>
-&lt;li>Have your first paragraph be as short and direct as possible.&lt;/li>
-&lt;li>Use formatting (bold, italics, etc.) if you want to highlight something for me to notice (so don&amp;rsquo;t use it for every sentence!)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Scheduling is personally hard for me. Suggest multiple ranges of times that work for you.&lt;/li>
-&lt;/ul>
-&lt;h3 id="note-on-chatgpt">Note on ChatGPT&lt;/h3>
-&lt;p>I discourage using ChatGPT to email me because&lt;/p></description></item><item><title>Working with Me</title><link>/faq/admissions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/faq/admissions/</guid><description>&lt;h2 id="who-am-i-hiring">Who Am I Hiring?&lt;/h2>
-&lt;p>As of Sept. 2024, I am primarily hiring the following groups of people:&lt;/p>
-&lt;ul>
-&lt;li>Current UT undergraduates
-&lt;ul>
-&lt;li>I do not take first semester undergraduates who come straight from high school&lt;/li>
-&lt;li>I &lt;em>do&lt;/em> take transfer students and non-traditional undergraduates who are in their first semester&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Current UT graduate students&lt;/li>
-&lt;li>Prospective PhD students&lt;/li>
-&lt;li>Prospective postdocs with their own sources of funding&lt;/li>
-&lt;/ul>
-&lt;p>Due to limited bandwidth, I currently cannot take on the following groups of people in my lab:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ on Lilly Chin</title>
+    <link>//localhost:1313/faq/</link>
+    <description>Recent content in FAQ on Lilly Chin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice on Contacting Me</title>
+      <link>//localhost:1313/faq/emails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/faq/emails/</guid>
+      <description>&lt;h2 id=&#34;general-tips&#34;&gt;General Tips&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Using my &lt;a href=&#34;https://litchin.wordpress.com/contact/&#34;&gt;contact form&lt;/a&gt; will reduce the chance that your email gets into spam.&lt;/li&gt;&#xA;&lt;li&gt;Make it as easy as possible for me to respond to your email.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If you have an ask, put it as close to the top as possible.&lt;/li&gt;&#xA;&lt;li&gt;Have your first paragraph be as short and direct as possible.&lt;/li&gt;&#xA;&lt;li&gt;Use formatting (bold, italics, etc.) if you want to highlight something for me to notice (so don&amp;rsquo;t use it for every sentence!)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Scheduling is personally hard for me. Suggest multiple ranges of times that work for you.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;note-on-chatgpt&#34;&gt;Note on ChatGPT&lt;/h3&gt;&#xA;&lt;p&gt;I discourage using ChatGPT to email me because&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Working with Me</title>
+      <link>//localhost:1313/faq/admissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/faq/admissions/</guid>
+      <description>&lt;h2 id=&#34;who-am-i-hiring&#34;&gt;Who Am I Hiring?&lt;/h2&gt;&#xA;&lt;p&gt;As of Sept. 2024, I am primarily hiring the following groups of people:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Current UT undergraduates&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I do not take first semester undergraduates who come straight from high school&lt;/li&gt;&#xA;&lt;li&gt;I &lt;em&gt;do&lt;/em&gt; take transfer students and non-traditional undergraduates who are in their first semester&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Current UT graduate students&lt;/li&gt;&#xA;&lt;li&gt;Prospective PhD students&lt;/li&gt;&#xA;&lt;li&gt;Prospective postdocs with their own sources of funding&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Due to limited bandwidth, I currently cannot take on the following groups of people in my lab:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
