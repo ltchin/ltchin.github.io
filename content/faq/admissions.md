@@ -4,7 +4,7 @@ toc: true
 preamble: I'm glad that you're interested in working with me! I receive many requests for mentorship and often do not have the time to respond to each one. Read this web page for more information on how to best maximize your chance for a response.
 ---
 ## Who Am I Hiring?
-As of Sept. 2024, I am primarily hiring the following groups of people:
+As of Nov. 2024, I am primarily hiring the following groups of people:
 * Current UT undergraduates
 	* I do not take first semester undergraduates who come straight from high school
 	* I *do* take transfer students and non-traditional undergraduates who are in their first semester
@@ -33,7 +33,7 @@ If you are a prospective PhD student, please apply directly to UT Austin before 
 * Apply to the [ECE department](https://www.ece.utexas.edu/academics/graduate/admissions), selecting DICE or bioECE as your academic track
 * Apply to the [ME department](https://www.me.utexas.edu/academics/graduate-program/graduate-admissions), selecting DSC as your academic track
 
-Please apply to the program whose curriculum most resonates with you. It does not matter what your major was in undergrad. Please also make sure to put my name down as a professor who you are interested in working with. If the application fee presents a financial hardship, I am happy to discuss with you first about your chances of getting in.
+Please apply to the program whose curriculum most resonates with you. It does not matter what your major was in undergrad. Please also make sure to put my name down as a professor who you are interested in working with. For ECE, this is a direct form option. For ME, just put my name down in your Statement of Purpose. If the application fee presents a financial hardship, I am happy to discuss with you first about your chances of getting in.
 
 ---
 
