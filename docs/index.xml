@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Lilly Chin</title><link>/</link><description>Recent content in Home on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bio/</guid><description>&lt;h2 id="link-to-high-res-headshotimg_staticltchin-headshotjpg">&lt;a href="/img_static/ltchin-headshot.jpg">Link to high-res headshot&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Lilly Chin</title><link>/</link><description>Recent content in Home on Lilly Chin</description><generator>Hugo</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>/bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/bio/</guid><description>&lt;h2 id="link-to-high-res-headshot">&lt;a href="/img_static/ltchin-headshot.jpg">Link to high-res headshot&lt;/a>&lt;/h2>
 &lt;h2 id="short-biography">Short Biography&lt;/h2>
 &lt;p>Lillian Chin is an Assistant Professor at UT Austin in the Department of Electrical and Computer Engineering. She received her SB, SM, and PhD from MIT in Electrical Engineering and Computer Science. Her research interests include designing novel robot sensors and actuators, algorithmically generating mechanisms, enhancing robotic manipulation through tactile sensing, and deploying participatory design-based robots in real-world communities.&lt;/p>
 &lt;h2 id="long-biography">Long Biography&lt;/h2>
@@ -24,8 +24,7 @@
 &lt;h3 id="note-on-chatgpt">Note on ChatGPT&lt;/h3>
 &lt;p>I discourage using ChatGPT to email me because&lt;/p></description></item><item><title>Crafting</title><link>/projects/crafting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/crafting/</guid><description>&lt;h2 id="cross-stitching">Cross-Stitching&lt;/h2>
 &lt;p>I started cross-stitch in Dec. 2019, because of this &lt;a href="https://gumroad.com/l/EBtyT">Shitpost Sampler goose pattern&lt;/a> sent to me by a friend. I was so taken by it that I taught myself from online resources in order to learn how to make it. This started a near addiction in me, especially as I found myself with a lot of time and screen burnout from the COVID-19 pandemic. Since most of my traditional hobbies became off limits, cross-stitching quickly became my go-to.&lt;/p></description></item><item><title>Making</title><link>/projects/making/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/making/</guid><description>&lt;blockquote>
-&lt;p>This page is under construction. For now, enjoy my notes from the previous iteration of the website for what to include. All of these are from undergrad, so I may not include any of these moving forwards. I might just have them as an image gallery setup or a CV of failures.&lt;/p>
-&lt;/blockquote>
+&lt;p>This page is under construction. For now, enjoy my notes from the previous iteration of the website for what to include. All of these are from undergrad, so I may not include any of these moving forwards. I might just have them as an image gallery setup or a CV of failures.&lt;/p>&lt;/blockquote>
 &lt;p>&lt;strong>Github:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/ltchin">Main&lt;/a>&lt;/li>
@@ -141,10 +140,10 @@
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 1280px, 400px, 100vw (max-width: 1280)" 
- srcset=' /img/philosophyOverview_hu4983768567781502591.png 200w 
- /img/philosophyOverview_hu10659432553938748375.png 400w 
- /img/philosophyOverview_hu6973903310723979956.png 600w 
- /img/philosophyOverview_hu17600101644757561214.png 800w '
+ srcset=' /img/philosophyOverview_hu_489655f7e4139583.png 200w 
+ /img/philosophyOverview_hu_a9c2735e3bc5f3d.png 400w 
+ /img/philosophyOverview_hu_59294da5570f5.png 600w 
+ /img/philosophyOverview_hu_32d6729ac8b03f22.png 800w '
  src="/img/philosophyOverview.png"
  alt='A three-layer pyramid. From bottom to top, the layers are &amp;#39;Bodies&amp;#39;, &amp;#39;Materials&amp;#39; and &amp;#39;Geometry&amp;#39;.'
  />
