@@ -3,10 +3,10 @@
  &lt;img
  loading="lazy"
  sizes="(min-width: 35em) 1280px, 400px, 100vw (max-width: 1280)" 
- srcset=' /img/philosophyOverview_hu4983768567781502591.png 200w 
- /img/philosophyOverview_hu10659432553938748375.png 400w 
- /img/philosophyOverview_hu6973903310723979956.png 600w 
- /img/philosophyOverview_hu17600101644757561214.png 800w '
+ srcset=' /img/philosophyOverview_hu_489655f7e4139583.png 200w 
+ /img/philosophyOverview_hu_a9c2735e3bc5f3d.png 400w 
+ /img/philosophyOverview_hu_59294da5570f5.png 600w 
+ /img/philosophyOverview_hu_32d6729ac8b03f22.png 800w '
  src="/img/philosophyOverview.png"
  alt='A three-layer pyramid. From bottom to top, the layers are &amp;#39;Bodies&amp;#39;, &amp;#39;Materials&amp;#39; and &amp;#39;Geometry&amp;#39;.'
  />

@@ -4,7 +4,7 @@ toc: true
 preamble: I'm glad that you're interested in working with me! I receive many requests for mentorship and often do not have the time to respond to each one. Read this web page for more information on how to best maximize your chance for a response.
 ---
 ## Who Am I Hiring?
-As of Nov. 2024, I am primarily hiring the following groups of people:
+As of May 2025, I am primarily hiring the following groups of people with **hands-on project experience, especially in mechanical design**.
 * Current UT undergraduates
 	* I do not take first semester undergraduates who come straight from high school
 	* I *do* take transfer students and non-traditional undergraduates who are in their first semester
@@ -16,7 +16,7 @@ Due to limited bandwidth, I currently cannot take on the following groups of peo
 * High school students
 	* Please check out programs specifically designed for high schoolers, such as [RSI](https://www.cee.org/programs/research-science-institute), [MITES](https://mites.mit.edu), and [HSRA](https://fri.cns.utexas.edu/community-outreach/summer-high-school-research-academy)
 * Non-UT undergraduates
-	* Please check out other [undergraduate research programs](https://www.cientificolatino.com/reu), such as [UT ECE Next](https://www.ece.utexas.edu/academics/ece-next), the [NSF REU](https://www.nsf.gov/crssprgm/reu/), the [NIH BESIP](https://www.nibib.nih.gov/labs-at-nibib/besip), [Oregon State's REU](https://engineering.oregonstate.edu/CoRIS/reu-robots-real-world), and [CMU's RISS](https://riss.ri.cmu.edu).
+	* Please check out other [undergraduate research programs](https://www.cientificolatino.com/reu), such as [UT ECE Next](https://www.ece.utexas.edu/academics/ece-next), [NSF REU](https://www.nsf.gov/crssprgm/reu/) programs, the [NIH BESIP](https://www.nibib.nih.gov/labs-at-nibib/besip), [Oregon State's REU](https://engineering.oregonstate.edu/CoRIS/reu-robots-real-world), and [CMU's RISS](https://riss.ri.cmu.edu).
 
 <!-- * **High school students**: As a new professor, I cannot provide the support needed for a positive high school research experience. 
 * **First semester undergraduates, coming straight from high school**: No matter how much technical experience you have coming from high school, it will not prepare you for the level of independence you get in college. I would like first year undergraduates to have at least a semester of college life to explore a wider range of activities before committing to working with me for 10 hours / week. This auto-No does not apply to transfer students or non-traditional undergraduate students who are not coming directly from high school. 
@@ -27,7 +27,8 @@ I am currently oversubscribed with interest from UT undergraduates.
 
 ## How to Apply
 
-If you are a current UT student or prospective postdoc, please email me directly **with a resume** using the advice [HERE](/faq/emails#how-to-convey-your-interest-in-my-lab)
+If you are a current UT student or prospective postdoc, please email me directly **with a resume** using the advice [HERE](/faq/emails#how-to-convey-your-interest-in-my-lab). 
+I also strongly recommend that you prepare a **project portfolio**. This can be a simple set of Google Slides / Powerpoint presentation where you have photos of the project, describe what the goal was and what your contribution was. [HERE](https://mitcommlab.mit.edu/meche/commkit/portfolio/) is some advice on what makes a good portfolio.
 
 If you are a prospective PhD student, please **apply directly to UT Austin before sending me an email**. You have two options for applications:
 * Apply to the [ECE department](https://www.ece.utexas.edu/academics/graduate/admissions), selecting DICE or bioECE as your academic track
