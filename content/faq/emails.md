@@ -9,8 +9,7 @@ preamble: Professors get a lot of emails (on the order of hundreds a day). That 
 * Make it as easy as possible for me to respond to your email.
 	* If you have an ask, put it as close to the top as possible.
 	* Have your first paragraph be as short and direct as possible. 
-	* Use formatting (bold, italics, etc.) if you want to highlight something for me to notice (so don't use it for every sentence!)
-* Scheduling is personally hard for me. Suggest multiple ranges of times that work for you.
+	* If the email must be long, use formatting (bold, italics, etc.) if you want to highlight something for me to notice. Don't use it for every sentence or if your email is only a few sentences long!
 
 ### Note on ChatGPT
 I discourage using ChatGPT to email me because 
@@ -23,7 +22,11 @@ If you must use it, please ask for it to give you a *very concise* email and don
 ---
 
 ## How to Convey Your Interest in My Lab
-If you are interested in working with me, read my [admissions FAQ](/faq/admissions) first to make sure I'm hiring in your area. Then, send me an email stating **explicitly** which projects or research ideas on [the MERGe Lab website](https://merge-lab.github.io/research/) interest you. It's ok if it's not a well-formed idea, but if I don't see any attempt from you to explain how you are related to my existing research interests or projects, you are unlikely to get a response back.
+If you are interested in working with me, read my [admissions FAQ](/faq/admissions) to make sure I'm hiring in your area. Follow the directions there to prepare your resume + portfolio appropriately and then send me an email.
+
+> **Pro tip:** Read the MERGe Lab [research](https://merge-lab.github.io/research/) and [publications](https://merge-lab.github.io/publications/) pages to tell me explicitly which papers you like and why. 
+> 
+> Tell me about **your** interests and what **you** want to do, not what you think I want to hear. Be as concrete as possible without falling into cliches (ex. "ever since I was a little kid, I wanted to make robots", "robots are the future and I want to be a part of that future")
 
 Think of talking with an academic like making music in a [jam session](https://en.wikipedia.org/wiki/Jam_session). Jam sessions are [fun casual times](https://superguitarlicks.com/preparing-for-your-first-jam-session/) where we riff off of each other's knowledge and see what new ideas can come out. However, this means we need to have some common ground before we can start making music together. If you show up to jam session without an instrument or an instrument that is different from what I'm used to, it'll be harder for me to jam successfully with you. Make it easy and exciting for me to respond to your email.
 
@@ -50,7 +53,8 @@ Even if you are already interested in the same topics as me, we probably don't l
 	* Robots are pretty expensive to get into, so I understand that not everyone may have that opportunity. This response tells me that you've thought about how your past experience might connect to potential future experiences. It tells me more about you and gives me something to ask about.
 * **Better**: "Robots seem neat because I like the way they X. I'd love to learn more about how they Y."
 	* Great, I know more about your interests and your motivations. We can have a concrete conversation.
-
+* **Better**: "I really liked your paper on X because Y. Are there any projects similar to X?"
+	* I'm very happy you looked at my work and thought how it applies to you. Even if projects directly on X aren't available, I may be able to find something that applies to your interests in Y.
 ---
 
 ## Communication Boundaries
